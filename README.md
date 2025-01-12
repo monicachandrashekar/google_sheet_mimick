@@ -1,6 +1,5 @@
 # React App  
 
-A modern React application designed to [briefly describe the purpose of your app, e.g., "offer seamless file uploads and interactions."]  
 
 ## Installation  
 
